@@ -34,7 +34,7 @@ This project retrieves news headlines, summarizes them using OpenAI's API, print
    Use the command line to execute the Python script:
 
    ```bash
-   python3 Task.py
+   python3 Task2.py
    
 5. **Check the Results**
 
