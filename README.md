@@ -42,15 +42,12 @@ This project retrieves news headlines, summarizes them using OpenAI's API, print
 
 ## Notes
 
-1. **OpenAI API Requirements**:
-
-   OpenAI requires you to link a credit card and top up at least $5 to use the API.
   
-2. **Summarizing News Content**:
+1. **Summarizing News Content**:
 
    To summarize news content instead of the title, change 'title' to 'content'. Refer to line 29 in the code for this adjustment.
   
-3. **Fetching More News**:
+2. **Fetching More News**:
 
    To fetch more news articles from the News API, adjust the page size parameter. Refer to line 59 in the code for this modification.
 
